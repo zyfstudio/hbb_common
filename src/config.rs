@@ -100,8 +100,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["bj.aidayin.top"];
-pub const RS_PUB_KEY: &str = "tgL3YxigEpxqC9NPhCU4BMrA+WRTYMtetCuH2fXiG7M=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["p"];
+pub const RS_PUB_KEY: &str = "=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
